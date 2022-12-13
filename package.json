@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch data.json"
+    "deploy": "gh-pages -d build"
   },
   "homepage": "https://jannyshim.github.io/react-to-do-proj/",
   "eslintConfig": {
