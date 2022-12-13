@@ -23,6 +23,7 @@
     "eject": "react-scripts eject",
     "server": "json-server --watch data.json"
   },
+  "homepage": "https://jannyshim.github.io/react-to-do-proj/",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -40,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
