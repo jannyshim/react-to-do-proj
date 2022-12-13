@@ -1,0 +1,11 @@
+footer {
+    position: fixed;
+    height: 40px;
+    width: 100%;
+    bottom: 0;
+    padding: 0 80%;
+    line-height: 35px;
+    border-top: 1px solid #dee5e7;
+    font-family: cursive;
+    color: gray;
+}
